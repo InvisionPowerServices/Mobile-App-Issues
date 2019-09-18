@@ -13,7 +13,7 @@ To install the app, you will need to have been invited via your email address fo
 
 ## Android
 
-- @todo
+- Available soon ⏰
 
 
 # Reporting bugs/problems

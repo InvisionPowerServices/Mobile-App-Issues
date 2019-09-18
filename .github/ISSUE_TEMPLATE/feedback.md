@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: ''
+about: Provide specific feedback about a feature or screen
 title: ''
 labels: 'Feedback'
 assignees: ''

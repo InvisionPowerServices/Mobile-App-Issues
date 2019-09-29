@@ -13,7 +13,8 @@ To install the app, you will need to have been invited via your email address fo
 
 ## Android
 
-- Available soon ⏰
+- Opt-in to the testing process [here]( https://play.google.com/apps/testing/com.invisioncommunity.app) (note that this is a closed testing process, so only users we specifically invite can access that link)
+- You will then see a store listing from where you can install the app, [here](https://play.google.com/store/apps/details?id=com.invisioncommunity.app)
 
 
 # Reporting bugs/problems
